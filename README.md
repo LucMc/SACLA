@@ -1,5 +1,8 @@
 # Efficient Neural Lyapunov Function Approximation with Reinforcement Learning
 
+# NOTE: This repository has been moved to: https://github.com/CAV-Research-Lab/SACLA
+
+
 Installation instructions
 1. clone this github repository
 2. Install requirements via `pip install -e .` when in the root folder. This will install all the requirements to build the prob_lyap package from the `pyproject.toml` file.
